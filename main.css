@@ -1,0 +1,40 @@
+#h2 {
+        color: brown;
+        text-decoration: underline;
+}
+P{
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    
+}
+.kiki {
+    display: flex;
+    justify-content: center;
+}
+#demo {
+    color: brown;
+    text-align: center;
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(236, 226, 226);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+}
+#increment-btn {
+    background-color: brown;
+}
+#save-btn {
+    background-color: aqua;
+    margin-left: auto;
+}
+.lolo{
+    display: flex;
+    
+}
