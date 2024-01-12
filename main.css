@@ -1,3 +1,7 @@
+body{
+    display: flex
+    
+}
 #h2 {
         color: brown;
         text-decoration: underline;
@@ -6,6 +10,7 @@ P{
     font-weight: bolder;
     font-size: x-large;
     text-align: center;
+    color: aqua;
     
 }
 .kiki {
@@ -36,5 +41,16 @@ button {
 }
 .lolo{
     display: flex;
-    
+    margin: auto;
+}
+.bodi{
+    margin: auto;
+    border: solid 2px;
+    border-radius: 10px;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/667/932/920/artwork-fantasy-art-concept-art-smoke-wallpaper-preview.jpg);
+    border-color: chocolate;
+}
+#gavel{
+    display: flex;
+    justify-content: center;
 }
